@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React from "react";
 import TolistItem from "./TolistItem";
