@@ -36,7 +36,7 @@ class App extends React.Component {
   }
   else{
     newEventArr = this.state.eventArr.filter((todo)=>{
-      return todo.id !=todoId; 
+      return todo.id !==todoId; 
     })
 
   }
